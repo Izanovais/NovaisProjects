@@ -1,0 +1,3 @@
+Arquivo 2
+
+Esse é o arquivo 2, a continuação do arquivo 1.
